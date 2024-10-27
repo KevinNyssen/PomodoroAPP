@@ -14,7 +14,7 @@ sólo hace falta darle click en Start, te concentras en tu actividad y al cabo d
   * colores
   * strings
   * temas
-  * objetos para almacenar frases
+  * objetos de kotlin para almacenar frases
   * widgets como botones, barra de progreso e imagenes seleccionables
   * libreria de contadores de tiempo y randomizadores
   * layouts
@@ -22,8 +22,8 @@ sólo hace falta darle click en Start, te concentras en tu actividad y al cabo d
   * manupulación de elementos de tiempo
 
 
-## Repositorio original (debido a dificultades en cuanto a control de versiones se movio a un respositorio limpio)
+## Repositorio original (debido a dificultades en cuanto a control de versiones se movió a un respositorio limpio)
 https://github.com/KevinNyssen/PomodoroTimerApp.git  (Branch CoffeBreakNav)
 
 NOTA
--No use composable ya que se me hizó de alta dificultad comparado con layout que es un poco más intuitivo-
+-No use composable ya que se me hizo de alta dificultad comparado con layout que es un poco más intuitivo-
